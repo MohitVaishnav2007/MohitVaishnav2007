@@ -16,9 +16,8 @@ I'm a passionate student deeply interested in the intersection of *Artificial In
 ### 🛠️ Skills & Tools
 - 💻 Programming: Python, Bash, HTML/CSS  
 - 🔐 Security Tools: Wireshark, Nmap, Burp Suite (Beginner Level)  
-- 🧠 Libraries: NumPy, Pandas (Basics)  
-- 🔗 Other Tools: Git, GitHub, Linux (BlackArch, Ubuntu)  
-- 🌍 Interests: System security, automation, quantum-safe algorithms
+- 🔗 Other Tools: Git, GitHub, Linux (BlackArch, Ubuntu, Kali Linux, Redhat)  
+- 🌍 Interests: System security, AI-Secops, automation, quantum-safe algorithms
 
 ---
 
@@ -26,8 +25,6 @@ I'm a passionate student deeply interested in the intersection of *Artificial In
 > (More detailed repos coming soon with README and documentation)
 
 - *AI-Based Phishing URL Detector* – Detects malicious links using NLP and ML techniques  
-- *Linux Log Forensics Tool* – Automates log parsing to identify suspicious behavior  
-- *Python Cyber Bot* – Scriptable bot to demo common security checks and automation  
 - *Personal Site Generator* – Builds clean portfolio sites using plain Python
 
 ---
