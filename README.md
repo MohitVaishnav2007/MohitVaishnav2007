@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate student deeply interested in the intersection of *Artificial Intelligence, **Cybersecurity, and **Quantum Computing*. I enjoy exploring how intelligent systems can be made secure and future-ready.
+I'm a passionate student deeply interested in the intersection of *Artificial Intelligence*, *Cybersecurity*, and *Quantum Computing*. I enjoy exploring how intelligent systems can be made secure and future-ready.
 
 - 🧠 Currently learning: Python, Cryptography, System Automation, and Ethical Hacking  
 - 🧪 Building beginner-level research projects focused on real-world security and AI solutions  
