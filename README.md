@@ -39,7 +39,7 @@ I'm a passionate student deeply interested in the intersection of *Artificial In
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohitvaishnav2505)  
-- ✉️ Email: mohitvaishnav0507@gmail.com  
+- ✉️ Email: vaishnavmohit2505@gmail.com  
 - 🔗 [GitHub](https://github.com/MohitVaishnav2007)
 
 ---
