@@ -1,30 +1,42 @@
 # Mohit Vaishnav
 
-🚀 Cybersecurity Builder | Secure Systems | Future: AI & Quantum Security
+🚀 Cybersecurity Builder | Designing Secure Systems
 
 ---
 
-## 🧠 Who I Am
+## 🧠 Focus
 
-I am focused on building secure systems from the ground up — starting with fundamentals and moving towards real-world infrastructure.
+I’m building secure systems from the ground up — starting with fundamentals and moving towards real-world communication and infrastructure security.
 
-Currently at an early stage, but with a long-term vision:
-→ Designing secure communication systems
-→ Understanding how systems break and how to defend them
-→ Moving towards AI-driven and quantum-resistant security
-
----
-
-## ⚙️ What I'm Doing Right Now
-
-* Building a **Secure Communication Simulator**
-* Strengthening **Networking & System Fundamentals**
-* Exploring **Cryptography (classical → future-ready)**
-* Working with **Linux environments**
+My approach is simple:
+→ Understand how systems work
+→ Break them
+→ Build them better
 
 ---
 
-## 🛠️ Tech Stack (Growing)
+## ⚙️ Current Work
+
+🔹 **Secure Communication Simulator (In Progress)**
+A system to simulate secure communication over untrusted networks.
+
+* Encryption (AES/RSA)
+* Attack simulation (MITM, replay)
+* Integrity verification (hashing, signatures)
+
+---
+
+## 🧪 Projects
+
+🔹 **HTTP Request Fuzzer**
+A tool to test web applications by sending crafted inputs and analyzing responses.
+
+🔹 **Email Header Analyzer**
+Analyzes email headers to understand routing and detect anomalies.
+
+---
+
+## 🛠️ Tech Stack
 
 * Python
 * Linux
@@ -33,31 +45,19 @@ Currently at an early stage, but with a long-term vision:
 
 ---
 
-## 🧪 Projects
-
-### 🔹 HTTP Fuzzer
-
-A foundational security tool to test endpoints by fuzzing inputs and analyzing behavior.
-
-> Built to understand how systems handle unexpected input and where vulnerabilities can exist.
-
-(More system-level projects coming next…)
-
----
-
 ## 🎯 Direction
 
-I’m not just learning tools — I’m building toward:
+I’m focused on moving towards:
 
-→ Secure communication infrastructure
-→ System-level security engineering
-→ Future-ready security (AI + Quantum)
+→ Secure communication systems
+→ System-level cybersecurity engineering
+→ AI & Quantum security
 
 ---
 
-## 📈 Long-Term Vision
+## 📈 Long-Term
 
-To contribute to building secure, scalable systems that can operate in advanced and high-risk environments.
+Building secure infrastructure for advanced and high-risk environments.
 
 ---
 
