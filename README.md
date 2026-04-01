@@ -1,54 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mohit Vaishnav</h1>
-<h3 align="center">Aspiring Researcher | AI, Cybersecurity & Quantum Computing</h3>
+# Mohit Vaishnav
+
+🚀 Cybersecurity Builder | Secure Systems | Future: AI & Quantum Security
 
 ---
 
-### 🚀 About Me
-I'm a passionate student deeply interested in the intersection of *Artificial Intelligence*, *Cybersecurity*, and *Quantum Computing*. I enjoy exploring how intelligent systems can be made secure and future-ready.
+## 🧠 Who I Am
 
-- 🧠 Currently learning: Python, Cryptography, System Automation, and Ethical Hacking  
-- 🧪 Building beginner-level research projects focused on real-world security and AI solutions  
-- 🐧 Strong interest in Linux systems, cyber forensics, and emerging technologies  
-- 📘 Actively learning new technologies, algorithms, and tools through self-guided exploration
+I am focused on building secure systems from the ground up — starting with fundamentals and moving towards real-world infrastructure.
 
----
-
-### 🛠️ Skills & Tools
-- 💻 Programming: Python, Bash, HTML/CSS  
-- 🔐 Security Tools: Wireshark, Nmap, Burp Suite (Beginner Level)  
-- 🔗 Other Tools: Git, GitHub, Linux (BlackArch, Ubuntu, Kali Linux, Redhat)  
-- 🌍 Interests: System security, AI-Secops, automation, quantum-safe algorithms
+Currently at an early stage, but with a long-term vision:
+→ Designing secure communication systems
+→ Understanding how systems break and how to defend them
+→ Moving towards AI-driven and quantum-resistant security
 
 ---
 
-### 📌 Highlight Projects
-> (More detailed repos coming soon with README and documentation)
+## ⚙️ What I'm Doing Right Now
 
-- *AI-Based Phishing URL Detector* – Detects malicious links using NLP and ML techniques  
-- *Personal Site Generator* – Builds clean portfolio sites using plain Python
-
----
-
-### 📈 Goals
-- Build open-source projects that address modern security challenges  
-- Contribute to innovative research in AI and cybersecurity  
-- Pursue research-oriented undergraduate studies focused on advanced computing  
-- Collaborate globally to solve future digital risks with smart solutions
+* Building a **Secure Communication Simulator**
+* Strengthening **Networking & System Fundamentals**
+* Exploring **Cryptography (classical → future-ready)**
+* Working with **Linux environments**
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohitvaishnav2505)  
-- ✉️ Email: vaishnavmohit2505@gmail.com  
-- 🔗 [GitHub](https://github.com/MohitVaishnav2007)
+## 🛠️ Tech Stack (Growing)
+
+* Python
+* Linux
+* Networking
+* Cryptography
 
 ---
 
-### 🎯 Fun Facts
-- 🎸 I love music and play guitar in my free time  
-- ♟️ Enjoy playing chess and solving logic puzzles  
-- 💬 Always curious about how tech can be used for good and secure innovation
+## 🧪 Projects
+
+### 🔹 HTTP Fuzzer
+
+A foundational security tool to test endpoints by fuzzing inputs and analyzing behavior.
+
+> Built to understand how systems handle unexpected input and where vulnerabilities can exist.
+
+(More system-level projects coming next…)
 
 ---
 
-<p align="center">🚀 Always exploring. Always learning. Always building.</p>
+## 🎯 Direction
+
+I’m not just learning tools — I’m building toward:
+
+→ Secure communication infrastructure
+→ System-level security engineering
+→ Future-ready security (AI + Quantum)
+
+---
+
+## 📈 Long-Term Vision
+
+To contribute to building secure, scalable systems that can operate in advanced and high-risk environments.
+
+---
+
+## 🤝 Connect
+
+* LinkedIn: www.linkedin.com/in/mohitvaishnav05
