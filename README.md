@@ -1,66 +1,57 @@
-# Mohit Vaishnav
+# 👋 Hi, I'm Mohit Vaishnav
 
-🚀 Cybersecurity Builder | Designing Secure Systems
-
----
-
-## 🧠 Focus
-
-I’m building secure systems from the ground up — starting with fundamentals and moving towards real-world communication and infrastructure security.
-
-My approach is simple:
-→ Understand how systems work
-→ Break them
-→ Build them better
+I build systems at the intersection of security, infrastructure, and real-world complexity.
 
 ---
 
-## ⚙️ Current Work
+## 🚀 Current Focus
 
-🔹 **Secure Communication Simulator (In Progress)**
-A system to simulate secure communication over untrusted networks.
-
-* Encryption (AES/RSA)
-* Attack simulation (MITM, replay)
-* Integrity verification (hashing, signatures)
+* Secure Communication Systems
+* Cybersecurity & Network-Level Analysis
+* Distributed Systems & Infrastructure
+* Early-stage exploration of Space Systems and Coordination
 
 ---
 
-## 🧪 Projects
+## 🧠 What I'm Building
 
-🔹 **HTTP Request Fuzzer**
-A tool to test web applications by sending crafted inputs and analyzing responses.
+* 🔐 Secure Communication Simulator (in progress)
+  Designing a system to simulate encryption, data integrity, and attack scenarios (MITM, replay, etc.)
 
-🔹 **Email Header Analyzer**
-Analyzes email headers to understand routing and detect anomalies.
+* 🌐 HTTP Fuzzer
+  A Python-based tool to test and analyze web application responses and behavior
+
+* 🛰️ System Simulation (upcoming)
+  Working toward building systems that model coordination problems like satellite collision risk and large-scale infrastructure behavior
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Skills (Developing)
 
 * Python
-* Linux
-* Networking
-* Cryptography
+* Linux (Kali, system workflows)
+* Networking Fundamentals
+* Cybersecurity Basics
+* System Thinking & Problem Decomposition
 
 ---
 
-## 🎯 Direction
+## 🧭 Philosophy
 
-I’m focused on moving towards:
-
-→ Secure communication systems
-→ System-level cybersecurity engineering
-→ AI & Quantum security
-
----
-
-## 📈 Long-Term
-
-Building secure infrastructure for advanced and high-risk environments.
+Build fast.
+Break things.
+Understand deeply.
+Ship real systems.
 
 ---
 
-## 🤝 Connect
+## 🎯 Vision
 
-* LinkedIn: www.linkedin.com/in/mohitvaishnav05
+To engineer high-impact, secure systems for critical environments—ranging from digital infrastructure to future space-based systems.
+
+---
+
+## 📌 Note
+
+This profile is a live record of my journey from fundamentals to building advanced systems.
+Every project here is part of that progression.
