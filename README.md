@@ -1,57 +1,109 @@
-# 👋 Hi, I'm Mohit Vaishnav
+# 👋 Mohit Vaishnav
 
-I build systems at the intersection of security, infrastructure, and real-world complexity.
+### Building Secure Systems for High-Stakes Environments
 
----
-
-## 🚀 Current Focus
-
-* Secure Communication Systems
-* Cybersecurity & Network-Level Analysis
-* Distributed Systems & Infrastructure
-* Early-stage exploration of Space Systems and Coordination
+I design and build systems where **security, reliability, and scale** are non-negotiable.
 
 ---
 
-## 🧠 What I'm Building
+## ⚡ Current Direction
 
-* 🔐 Secure Communication Simulator (in progress)
-  Designing a system to simulate encryption, data integrity, and attack scenarios (MITM, replay, etc.)
-
-* 🌐 HTTP Fuzzer
-  A Python-based tool to test and analyze web application responses and behavior
-
-* 🛰️ System Simulation (upcoming)
-  Working toward building systems that model coordination problems like satellite collision risk and large-scale infrastructure behavior
+* 🔐 Secure Communication Systems
+* 🌐 Cybersecurity & Network Analysis
+* 🧠 Distributed Systems & Infrastructure
+* 🛰️ Early-stage Space Systems (Collision Risk & Coordination)
 
 ---
 
-## ⚙️ Skills (Developing)
+## 🧪 Active Projects
+
+### 🔐 Secure Communication Simulator *(In Progress)*
+
+Simulating real-world secure communication:
+
+* End-to-End Encryption concepts
+* Integrity verification (hashing)
+* Attack simulations (MITM, replay attacks)
+
+> Goal: Understand and build systems that remain secure under adversarial conditions.
+
+---
+
+### 🌐 HTTP Fuzzer
+
+Python-based tool for testing web application behavior and edge cases.
+
+* Payload-based fuzzing
+* Response analysis
+* Lightweight and extensible
+
+👉 *Next:* Add smarter payload generation + automation
+
+---
+
+### 🛰️ LEO Collision Risk System *(Upcoming)*
+
+Building a system to:
+
+* Track satellite positions
+* Detect close approaches
+* Generate collision risk alerts
+
+> Focus: Real-world infrastructure problems in space systems.
+
+---
+
+## 📊 Development Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
 
 * Python
-* Linux (Kali, system workflows)
-* Networking Fundamentals
-* Cybersecurity Basics
-* System Thinking & Problem Decomposition
+
+**Systems**
+
+* Linux (Kali)
+* Networking fundamentals
+
+**Domains**
+
+* Cybersecurity
+* System Simulation
+* Infrastructure Thinking
 
 ---
 
-## 🧭 Philosophy
+## 🧠 Engineering Philosophy
 
-Build fast.
-Break things.
-Understand deeply.
-Ship real systems.
-
----
-
-## 🎯 Vision
-
-To engineer high-impact, secure systems for critical environments—ranging from digital infrastructure to future space-based systems.
+* Break problems to first principles
+* Build fast, iterate faster
+* Focus on systems, not scripts
+* Prioritize real-world impact
 
 ---
 
-## 📌 Note
+## 🎯 Mission
 
-This profile is a live record of my journey from fundamentals to building advanced systems.
-Every project here is part of that progression.
+To build **secure, high-impact systems** for critical environments —
+from modern digital infrastructure to future space-based systems.
+
+---
+
+## 📌 This Profile
+
+This is not a collection of random projects.
+This is a **log of progression** toward building advanced, real-world systems.
+
+---
+
+## 🔗 Connect
+
+* LinkedIn: www.linkedin.com/in/mohitvaishnav05
+
+---
