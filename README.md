@@ -1,106 +1,55 @@
-# 👋 Mohit Vaishnav
+# Mohit Vaishnav (Eli Cipher)
 
-### Building Secure Systems for High-Stakes Environments
+Systems-oriented builder focused on cybersecurity, Linux, networking, AI infrastructure, and post-quantum systems.
 
-I design and build systems where **security, reliability, and scale** are non-negotiable.
-
----
-
-## ⚡ Current Direction
-
-* 🔐 Secure Communication Systems
-* 🌐 Cybersecurity & Network Analysis
-* 🧠 Distributed Systems & Infrastructure
-* 🛰️ Early-stage Space Systems (Collision Risk & Coordination)
+Currently building deep technical foundations while documenting the journey publicly through projects, experiments, and technical exploration.
 
 ---
 
-## 🧪 Active Projects
+## Current Focus
 
-### 🔐 Secure Communication Simulator *(In Progress)*
-
-Simulating real-world secure communication:
-
-* End-to-End Encryption concepts
-* Integrity verification (hashing)
-* Attack simulations (MITM, replay attacks)
-
-> Goal: Understand and build systems that remain secure under adversarial conditions.
-
----
-
-### 🌐 HTTP Fuzzer
-
-Python-based tool for testing web application behavior and edge cases.
-
-* Payload-based fuzzing
-* Response analysis
-* Lightweight and extensible
-
-👉 *Next:* Add smarter payload generation + automation
-
----
-
-### 🛰️ LEO Collision Risk System *(Upcoming)*
-
-Building a system to:
-
-* Track satellite positions
-* Detect close approaches
-* Generate collision risk alerts
-
-> Focus: Real-world infrastructure problems in space systems.
-
----
-
-## 📊 Development Activity
- IN PROGRESS
----
-
-## ⚙️ Tech Stack
-
-**Languages**
-
-* Python
-
-**Systems**
-
-* Linux (Kali)
+* Linux & system internals
 * Networking fundamentals
-
-**Domains**
-
-* Cybersecurity
-* System Simulation
-* Infrastructure Thinking
-
----
-
-## 🧠 Engineering Philosophy
-
-* Break problems to first principles
-* Build fast, iterate faster
-* Focus on systems, not scripts
-* Prioritize real-world impact
+* Python automation
+* Security engineering
+* AI infrastructure systems
+* Post-Quantum Cryptography (PQC)
+* Systems architecture & thinking
 
 ---
 
-## 🎯 Mission
+## Building
 
-To build **secure, high-impact systems** for critical environments —
-from modern digital infrastructure to future space-based systems.
-
----
-
-## 📌 This Profile
-
-This is not a collection of random projects.
-This is a **log of progression** toward building advanced, real-world systems.
+* Security tools & automation
+* Networking utilities
+* Linux workflows
+* Technical documentation
+* Cybersecurity labs & experiments
 
 ---
 
-## 🔗 Connect
+## Philosophy
 
-* LinkedIn: www.linkedin.com/in/mohitvaishnav05
+I’m interested in understanding how systems operate — technically, operationally, and strategically.
+
+Long term, I aim to build globally important technology systems operating at the infrastructure layer.
 
 ---
+
+## Current Mission
+
+Building capability from the ground up through:
+
+* daily technical learning
+* hands-on experimentation
+* public documentation
+* disciplined execution
+
+---
+
+## Connect
+
+- LinkedIn - [mohitvaishnav05](https://www.linkedin.com/in/mohitvaishnav05)
+- X / Twitter - [@elicipher_](https://x.com/elicipher_)
+- YouTube - [@elicipher05](https://www.youtube.com/@elicipher05)
+- Instagram - [@elicipher_](https://www.instagram.com/elicipher_)
